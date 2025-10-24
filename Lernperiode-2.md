@@ -36,7 +36,15 @@
 - ich habe an meinem Unity Projekt weitergearbeitet und habe die Grundfunktionen programmiert.
 - ich habe die OBA für das Modul 319 angefangen.
 
+# Tagesreflexion
+**24.10.2025**
+- Ich habe heute an meinem Unity Programm weiter gearbeitet.
+- Ich habe heute einer meiner Freunde geholfen, weil sie ein Problem hatten.
 
+
+  # Feinplanung
+- []Ich will mein Unity programm fertigstellen können.
+- []Ich will einen taschenrechner in C# programmieren.
 
 
 
