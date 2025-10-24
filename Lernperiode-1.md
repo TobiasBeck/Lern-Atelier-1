@@ -2,14 +2,6 @@
 **Tobias**
 **28.08.2025**
 
-```
-{
-  "firstName": "Tobias",
-  "lastName": "Beck",
-  "age": 16
-  
-}
-```
 
  # Lernperiode 1 
 
