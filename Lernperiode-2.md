@@ -44,7 +44,9 @@
 - []Ich will mein Unity programm fertigstellen können.
 - []Ich will einen taschenrechner in C# programmieren.
 - []Ich möchte noch versuchen eine eigene Website erstellen in HTML.
+- []Ich möchte beser mit C# klar kommen.
   
+
 
 
 
