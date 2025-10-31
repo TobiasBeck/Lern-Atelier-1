@@ -43,8 +43,9 @@
  
 
   # Feinplanung:
-- []Ich möchrte an unserem Porgrammeirprojekt weiterarbeiten.
-- []Ich möchte besser mit C# klar kommen.
+  **31.10.2025**
+- [ ] Ich möchrte an unserem Porgrammeirprojekt weiterarbeiten.
+- [ ] Ich möchte besser mit C# klar kommen.
   
  # Tagesreflexion:
  **31.10.2025**
@@ -52,6 +53,7 @@
  -
  -
  
+
 
 
 
