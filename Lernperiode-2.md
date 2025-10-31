@@ -24,9 +24,9 @@
 
 # Tagesreflexion:
 **17.10.2025**
-- ich habe heute am Modul 431 weitergearbeitet und habe es fast fertig.
-- ich habe an meinem Unity Projekt weitergearbeitet und habe die Grundfunktionen programmiert.
-- ich habe die OBA für das Modul 319 angefangen.
+- Ich habe heute am Modul 431 weitergearbeitet und habe es fast fertig.
+- Ich habe an meinem Unity Projekt weitergearbeitet und habe die Grundfunktionen programmiert.
+- Ich habe die OBA für das Modul 319 angefangen.
 
  # Feinplanung:
  
@@ -51,6 +51,7 @@
  -
  -
  
+
 
 
 
