@@ -31,13 +31,16 @@
  # Feinplanung:
  
 - [x] Ich möchte die Module 431 und 319 fertigstellen.
+- [ ] Ich habe heute an meinem Unity Programm weiter gearbeitet.
+- [ ] Ich habe heute einer meiner Freunde geholfen, weil sie ein Problem hatten.
+- [ ] Ich habe mir das Buch Schrödinger programmiert C# angeschaut.
 
 
 # Tagesreflexion:
 **24.10.2025**
-- Ich habe heute an meinem Unity Programm weiter gearbeitet.
-- Ich habe heute einer meiner Freunde geholfen, weil sie ein Problem hatten.
-- Ich habe mir das Buch Schrödinger programmiert C# angeschaut.
+- Was habe ich gut gemacht.
+- was kann ich noch verbessern.
+- was ist mir nicht so leicht gegangen.
  
 
 # Feinplanung:
@@ -52,6 +55,7 @@
  -
  -
  
+
 
 
 
