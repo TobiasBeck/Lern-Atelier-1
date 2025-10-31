@@ -51,12 +51,13 @@
   
 ## Tagesreflexion:
 **31.10.2025**
-- Wir sind heute sehr gut vorangekommen.
+- Wir sind heute sehr gut mit unserem Projekt vorangekommen.
 - Leider gab es ein paar kleine Probleme, doch diese konnten wir schliesslich beheben.
 
 ## Feinplanung:
 **07.11.2025**
 - [ ] Wir wollen weiter an unserem Budget-Planner Projekt weiterarbeiten.
+
 
 
 
