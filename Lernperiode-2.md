@@ -28,7 +28,6 @@
  # Feinplanung:
  
 -[X]Ich möchte die Module 431 und 319 fertigstellen.
--[]Ich möchte an meinem Unity Projekt weiterarbeiten.
 
 - ich habe heite am Modul 431 weitergearbeitet und habe es fast fertig.
 - ich habe an meinem Unity Projekt weitergearbeitet und habe die Grundfunktionen programmiert.
@@ -40,8 +39,7 @@
 - Ich habe heute einer meiner Freunde geholfen, weil sie ein Problem hatten.
 
 
-  # Feinplanung
-- []Ich will mein Unity Programm fertigstellen können.
+  # Feinplanung:
 - []Ich möchrte an unserem Porgrammeirprojekt weiterarbeiten.
 - []Ich möchte beser mit C# klar kommen.
   
@@ -51,6 +49,7 @@
  -
  -
  
+
 
 
 
