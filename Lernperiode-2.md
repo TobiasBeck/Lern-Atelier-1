@@ -56,7 +56,8 @@
 
 ## Feinplanung:
 **07.11.2025**
-- [ ] Wir wollen weiter an unserem Budget-Planner Projekt weiterarbeiten.
+- [ ] Wir wollen an unserem Budget-Planner Projekt weiterarbeiten.
+
 
 
 
