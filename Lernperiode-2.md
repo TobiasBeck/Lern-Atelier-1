@@ -29,7 +29,7 @@
 
  # Feinplanung:
  
--[X] Ich möchte die Module 431 und 319 fertigstellen.
+-[ X ] Ich möchte die Module 431 und 319 fertigstellen.
 
 - ich habe heite am Modul 431 weitergearbeitet und habe es fast fertig.
 - ich habe an meinem Unity Projekt weitergearbeitet und habe die Grundfunktionen programmiert.
@@ -53,6 +53,7 @@
  -
  -
  
+
 
 
 
