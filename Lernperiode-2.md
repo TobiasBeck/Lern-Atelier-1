@@ -38,9 +38,9 @@
 
 # Tagesreflexion:
 **24.10.2025**
-- Was habe ich gut gemacht.
-- was kann ich noch verbessern.
-- was ist mir nicht so leicht gegangen.
+- Was habe ich gut gemacht: 
+- was kann ich noch verbessern: 
+- was ist mir nicht so leicht gegangen: 
  
 
 # Feinplanung:
@@ -55,6 +55,7 @@
  -
  -
  
+
 
 
 
