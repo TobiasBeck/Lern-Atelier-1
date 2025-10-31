@@ -40,17 +40,19 @@
 - Ich habe mir das Buch Schrödinger programmiert C# angeschaut.
  
 
-  # Feinplanung:
-  **31.10.2025**
+# Feinplanung:
+**31.10.2025**
 - [ ] Ich möchrte an unserem Porgrammeirprojekt weiterarbeiten.
 - [ ] Ich möchte besser mit C# klar kommen.
   
- # Tagesreflexion:
- **31.10.2025**
+  
+# Tagesreflexion:
+**31.10.2025**
  -
  -
  -
  
+
 
 
 
