@@ -4,13 +4,13 @@
 **17.10.2025-19.12.2025**
 
 
-# Grobplanung:
+## Grobplanung:
 - Ich komme mit Unity besser klar.
 - Ich kann einen eigen Code schreiben der auch funktioniert.
 - Ich will an den Modulen weiterarbeiten.
 
 
-# Feinplanung:
+## Feinplanung:
 - Ich will alle Funktionen und Features von Unity kennen, so das ich das beste Programmiererlebniss haben kann.
 - Ich möchte komplexere Programme ohne hilfe von ChatBPT oder anderen Hilfsmittel schreiben können, die auch funktionieren.
 - Ich möchte weiter im Modul 431 kommen da ich ein bisschen hinter dem Zeitplan bin.
@@ -18,17 +18,17 @@
 - Ich will die OBA für das Modul 319  und feritigstellen.
 
 
-# Reflexion der 1. Lernperiode:
+## Reflexion der 1. Lernperiode:
 - Ich habe in dieser 1. Lernperiode sehr viel neues gelernt. Z.B. wie man in C# schreibt.
 
 
-# Tagesreflexion:
+## Tagesreflexion:
 **17.10.2025**
 - Ich habe heute am Modul 431 weitergearbeitet und habe es fast fertig.
 - Ich habe an meinem Unity Projekt weitergearbeitet und habe die Grundfunktionen programmiert.
 - Ich habe die OBA für das Modul 319 angefangen.
 
- # Feinplanung:
+ ## Feinplanung:
  
 - [x] Ich möchte die Module 431 und 319 fertigstellen.
 - [ ] Ich habe heute an meinem Unity Programm weiter gearbeitet.
@@ -36,25 +36,26 @@
 - [ ] Ich habe mir das Buch Schrödinger programmiert C# angeschaut.
 
 
-# Tagesreflexion:
+## Tagesreflexion:
 **24.10.2025**
 - Was habe ich gut gemacht: 
 - was kann ich noch verbessern: 
 - was ist mir nicht so leicht gegangen: 
  
 
-# Feinplanung:
+## Feinplanung:
 **31.10.2025**
 - [ ] Ich möchrte an unserem Porgrammeirprojekt weiterarbeiten.
 - [ ] Ich möchte besser mit C# klar kommen.
   
   
-# Tagesreflexion:
+## Tagesreflexion:
 **31.10.2025**
  -
  -
  -
  
+
 
 
 
