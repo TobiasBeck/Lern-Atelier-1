@@ -24,16 +24,14 @@
 
 # Tagesreflexion:
 **17.10.2025**
--Ich habe an meinen Modulen weitergearbeitet.
--Ich habe 
+- ich habe heute am Modul 431 weitergearbeitet und habe es fast fertig.
+- ich habe an meinem Unity Projekt weitergearbeitet und habe die Grundfunktionen programmiert.
+- ich habe die OBA für das Modul 319 angefangen.
 
  # Feinplanung:
  
 - [x] Ich möchte die Module 431 und 319 fertigstellen.
 
-- ich habe heute am Modul 431 weitergearbeitet und habe es fast fertig.
-- ich habe an meinem Unity Projekt weitergearbeitet und habe die Grundfunktionen programmiert.
-- ich habe die OBA für das Modul 319 angefangen.
 
 # Tagesreflexion:
 **24.10.2025**
@@ -53,6 +51,7 @@
  -
  -
  
+
 
 
 
