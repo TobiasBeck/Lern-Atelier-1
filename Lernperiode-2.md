@@ -41,11 +41,11 @@
 
 
   # Feinplanung
-- []Ich will mein Unity programm fertigstellen können.
-- []Ich will einen taschenrechner in C# programmieren.
-- []Ich möchte noch versuchen eine eigene Website erstellen in HTML.
+- []Ich will mein Unity Programm fertigstellen können.
+- []Ich möchrte an unserem Porgrammeirprojekt weiterarbeiten.
 - []Ich möchte beser mit C# klar kommen.
   
+
 
 
 
