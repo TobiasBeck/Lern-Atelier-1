@@ -24,6 +24,8 @@
 
 # Tagesreflexion:
 **17.10.2025**
+-Ich habe an meinen Modulen weitergearbeitet.
+-Ich habe 
 
  # Feinplanung:
  
@@ -37,7 +39,8 @@
 **24.10.2025**
 - Ich habe heute an meinem Unity Programm weiter gearbeitet.
 - Ich habe heute einer meiner Freunde geholfen, weil sie ein Problem hatten.
-
+- Ich habe mir das Buch Schrödinger programmiert C# angeschaut.
+ 
 
   # Feinplanung:
 - []Ich möchrte an unserem Porgrammeirprojekt weiterarbeiten.
@@ -49,6 +52,7 @@
  -
  -
  
+
 
 
 
