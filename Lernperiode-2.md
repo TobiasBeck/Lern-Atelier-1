@@ -45,6 +45,12 @@
 - []Ich möchrte an unserem Porgrammeirprojekt weiterarbeiten.
 - []Ich möchte beser mit C# klar kommen.
   
+ # Tagesreflexion:
+ **31.10.2025**
+ -
+ -
+ -
+ 
 
 
 
