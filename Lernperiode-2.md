@@ -59,6 +59,12 @@
 - [ ] Wir wollen an unserem Budget-Planner Projekt weiterarbeiten.
 
 
+## Tagesreflexion:
+**7.11.2025**
+- Ich habe erneut an unserem Projekt gearbeitet.
+- Leider hatten wir ein Problem mit einem Plug-in das wir bis jetzt immer noch nicht behoben haben.
+
+
 
 
 
