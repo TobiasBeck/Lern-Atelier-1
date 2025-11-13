@@ -33,7 +33,7 @@
 - [x] Ich möchte die Module 431 und 319 fertigstellen.
 - [ ] Ich habe heute an meinem Unity Programm weiter gearbeitet.
 - [ ] Ich habe heute einer meiner Freunde geholfen, weil sie ein Problem hatten.
-- [ ] Ich habe mir das Buch Schrödinger programmiert C# angeschaut.
+- [x] Ich habe mir das Buch Schrödinger programmiert C# angeschaut.
 
 
 ## Tagesreflexion:
@@ -69,6 +69,7 @@
 
 - [ ] Ich will an unserem Projekt weiterarbeiten.
 - [ ] Ich will die Probleme die wir gerade haben beheben.
+
 
 
 
