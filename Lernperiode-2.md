@@ -38,9 +38,9 @@
 
 ## Tagesreflexion:
 **24.10.2025**
-- Was habe ich gut gemacht: 
-- was kann ich noch verbessern: 
-- was ist mir nicht so leicht gegangen: 
+- Was habe ich gut gemacht: Ich habe heute meine Module fertiggestellt.
+- Was kann ich noch verbessern: Ich möchte noch besser mit dem Visual Studio zurechtkommen.
+- Was ist mir nicht so leicht gegangen: 
  
 
 ## Feinplanung:
@@ -69,6 +69,7 @@
 
 - [ ] Ich will an unserem Projekt weiterarbeiten.
 - [ ] Ich will die Probleme die wir gerade haben beheben.
+
 
 
 
