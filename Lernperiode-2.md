@@ -61,14 +61,15 @@
 
 ## Tagesreflexion:
 **7.11.2025**
-- Ich habe erneut an unserem Projekt gearbeitet.
-- Leider hatten wir ein Problem mit einem Plug-in das wir bis jetzt immer noch nicht beheben konnten.
+- Was ich heute gut gemacht habe: Ich habe erneut an unserem Projekt gearbeitet.
+- Was nicht so gut gelaufen ist: Leider hatten wir ein Problem mit einem Plug-in das wir bis jetzt immer noch nicht beheben konnten.
 
 ## Feinplanung:
 **14.11.2025**
 
 - [ ] Ich will an unserem Projekt weiterarbeiten.
 - [ ] Ich will die Probleme die wir gerade haben beheben.
+
 
 
 
