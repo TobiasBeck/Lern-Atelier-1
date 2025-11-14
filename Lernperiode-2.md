@@ -38,21 +38,21 @@
 
 ## Tagesreflexion:
 **24.10.2025**
-- Was habe ich gut gemacht: Ich habe heute meine Module fertiggestellt.
+- Was habe ich gut gemacht: Ich habe heute meine Module 319 und 431 fertiggestellt.
 - Was kann ich noch verbessern: Ich möchte noch besser mit dem Visual Studio zurechtkommen.
-- Was ist mir nicht so leicht gegangen: 
+- Was ist mir nicht so gut gegangen: 
  
 
 ## Feinplanung:
 **31.10.2025**
-- [x] Ich möchrte an unserem Porgrammeirprojekt weiterarbeiten.
+- [x] Ich möchrte an unserem Budget-Planner Porgrammeirprojekt weiterarbeiten.
 - [x] Ich möchte besser mit C# klar kommen.
   
   
 ## Tagesreflexion:
 **31.10.2025**
-- Wir sind heute sehr gut mit unserem Projekt vorangekommen.
-- Leider gab es ein paar kleine Probleme, doch diese konnten wir schliesslich beheben.
+- Wir sind heute sehr gut mit unserem Budget-Planner Projekt vorangekommen.
+- Leider gab es ein paar kleine Probleme mit dem Code, doch diese konnten wir schliesslich beheben.
 
 ## Feinplanung:
 **07.11.2025**
@@ -61,14 +61,16 @@
 
 ## Tagesreflexion:
 **7.11.2025**
-- Was ich heute gut gemacht habe: Ich habe erneut an unserem Projekt gearbeitet.
+- Was ich heute gut gemacht habe: Ich habe erneut an unserem Budget-Planner Projekt gearbeitet.
+- Was gut gelaufen ist: Wir haben guten Vortschritt gemachtz mit unserem Code. Wir haben auch schon alle Farben für unseren Budget-Planner.
 - Was noch nicht so gut gelaufen ist: Leider hatten wir ein Problem mit einem Plug-in das wir bis jetzt immer noch nicht beheben konnten.
 
 ## Feinplanung:
 **14.11.2025**
 
-- [ ] Ich will an unserem Projekt weiterarbeiten.
-- [ ] Ich will die Probleme die wir gerade haben beheben.
+- [ ] Ich will an unserem Budgewt-Planner Projekt weiterarbeiten, Wir wollen die Menu Leiste erstellen.
+- [ ] Ich will die Probleme die wir gerade mit einem unserer Plug-ins haben beheben können.
+
 
 
 
