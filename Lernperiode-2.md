@@ -45,44 +45,45 @@
 
 ## Feinplanung:
 **31.10.2025**
-- [x] Ich möchrte an unserem Budget-Planner Porgrammeirprojekt weiterarbeiten.
+- [x] Ich möchrte an unserem Budget-Planer Porgrammeirprojekt weiterarbeiten.
 - [x] Ich möchte besser mit C# klar kommen.
   
   
 ## Tagesreflexion:
 **31.10.2025**
-- Wir sind heute sehr gut mit unserem Budget-Planner Projekt vorangekommen.
+- Wir sind heute sehr gut mit unserem Budget-Planer Projekt vorangekommen.
 - Leider gab es ein paar kleine Probleme mit dem Code, doch diese konnten wir schliesslich beheben.
 
 ## Feinplanung:
 **07.11.2025**
-- [x] Wir wollen an unserem Budget-Planner Projekt weiterarbeiten.
+- [x] Wir wollen an unserem Budget-Plaer Projekt weiterarbeiten.
 
 
 ## Tagesreflexion:
 **7.11.2025**
-- Was ich heute gut gemacht habe: Ich habe erneut an unserem Budget-Planner Projekt gearbeitet.
+- Was ich heute gut gemacht habe: Ich habe erneut an unserem Budget-Planer Projekt gearbeitet.
 - Was gut gelaufen ist: Wir haben guten Vortschritt gemachtz mit unserem Code. Wir haben auch schon alle Farben für unseren Budget-Planner.
 - Was noch nicht so gut gelaufen ist: Leider hatten wir ein Problem mit einem Plug-in das wir bis jetzt immer noch nicht beheben konnten.
 
 ## Feinplanung:
 **14.11.2025**
 
-- [x] Ich will an unserem Budgewt-Planner Projekt weiterarbeiten, Wir wollen die Menu Leiste erstellen.
+- [x] Ich will an unserem Budgewt-Planer Projekt weiterarbeiten, Wir wollen die Menu Leiste erstellen.
 - [x] Ich will die Probleme die wir gerade mit einem unserer Plug-ins haben beheben können.
 
 
 ## Tagesreflexion:
 **14.11.2025**
 
-- Ich habe heute an unserem Budget-Planner weitergearbeitet. Ich habe mit Alex zusammen an unserer Menuleiste gearbeitet.
+- Ich habe heute an unserem Budget-Planer weitergearbeitet. Ich habe mit Alex zusammen an unserer Menuleiste gearbeitet.
 - Wir (Alex) hatten ein Problem mit den Borders, dass Herr Thut schliesslich beheben konnte.
 
 
 ## Feinplanung:
 **21.11.2025**
 
-- [ ] Ich will an userem Budget-Planner Projekt weiterarbeiten. 
+- [ ] Ich will an userem Budget-Planer Projekt weiterarbeiten. 
+
 
 
 
