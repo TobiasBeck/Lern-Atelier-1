@@ -68,11 +68,21 @@
 ## Feinplanung:
 **14.11.2025**
 
-- [ ] Ich will an unserem Budgewt-Planner Projekt weiterarbeiten, Wir wollen die Menu Leiste erstellen.
-- [ ] Ich will die Probleme die wir gerade mit einem unserer Plug-ins haben beheben können.
+- [x] Ich will an unserem Budgewt-Planner Projekt weiterarbeiten, Wir wollen die Menu Leiste erstellen.
+- [x] Ich will die Probleme die wir gerade mit einem unserer Plug-ins haben beheben können.
 
 
+## Tagesreflexion:
+**14.11.2025**
 
+- Ich habe heute an unserem Budget-Planner weitergearbeitet. Ich habe mit Alex zusammen an unserer Menuleiste gearbeitet.
+- Wir (Alex) hatten ein Problem mit den Borders, dass Herr Thut schliesslich beheben konnte.
+
+
+## Feinplanung:
+**21.11.2025**
+
+- [ ] Ich will an userem Budget-Planner Projekt weiterarbeiten. 
 
 
 
