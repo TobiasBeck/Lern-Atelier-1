@@ -86,7 +86,14 @@
 
 
 
+## Tagesreflexion:
+**21.11.2025**
+- Devrim und ich haben heute an unserem Budgetplaner (einem Konten-System) gearbeitet. Glücklicherweise gab es heute keine Probleme oder Fehlfunktionen.
+- Wegen Alex' Krankheit konnten wir heute leider nicht an unserer Menüleiste weiterarbeiten.
 
+## Feinplanung:
+**28.11.2025**
+-[ ] Ich möchte an unserer Menüleiste arbeiten, da wir beim letzten Mal nicht daran weiterarbeiten konnten.
 
 
 
