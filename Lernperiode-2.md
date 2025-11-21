@@ -95,6 +95,7 @@
 **28.11.2025**
 
 - [ ] Ich möchte an unserer Menüleiste arbeiten, da wir beim letzten Mal nicht daran weiterarbeiten konnten.
+- [ ]  Wir möchten unsere Präsentation erstellen, die wir im Rahmen des Informatikprojekts halten müssen.
 
 
 
