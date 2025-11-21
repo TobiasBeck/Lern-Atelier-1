@@ -82,7 +82,8 @@
 ## Feinplanung:
 **21.11.2025**
 
-- [ ] Ich will an userem Budget-Planer Projekt weiterarbeiten. 
+- [ ] Ich will an userem Budget-Planer Projekt unsere Funktion: "Home-Menu" weiterarbeiten.
+
 
 
 
