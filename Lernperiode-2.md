@@ -93,7 +93,9 @@
 
 ## Feinplanung:
 **28.11.2025**
+
 -[ ] Ich möchte an unserer Menüleiste arbeiten, da wir beim letzten Mal nicht daran weiterarbeiten konnten.
+
 
 
 
