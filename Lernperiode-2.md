@@ -94,9 +94,24 @@
 ## Feinplanung:
 **28.11.2025**
 
-- [ ] Ich möchte an unserer Menüleiste arbeiten, da wir beim letzten Mal nicht daran weiterarbeiten konnten.
-- [ ]  Wir möchten unsere Präsentation erstellen, die wir im Rahmen des Informatikprojekts halten müssen.
+- [x] Ich möchte an unserer Menüleiste arbeiten, da wir beim letzten Mal nicht daran weiterarbeiten konnten.
+- [x]  Wir möchten unsere Präsentation erstellen, die wir im Rahmen des Informatikprojekts halten müssen.
 
+
+## Tagesreflexion:
+**28.11.2025**
+
+– Ich habe heute mit Alex und Devrim an unserer Präsentation für das Projekt „Budget-Assistent” gearbeitet. Wir haben das Grundgerüst unserer Präsentation bereits erstellt und die Rollen verteilt
+- Wir sind recht weit gekommen, müssen aber noch ein paar Aspekte besprechen über das Wochenende.
+- Ich finde das ich heute gute Arbeit geleistet habe.
+
+
+## Feinplanung:
+**05.12.2025**
+
+- [ ] Ich will ein neues Programmierthema anfangen ( Unity-Programm).
+- [ ] Ich will für den Test des Moduls 162 lernen.
+- [ ] Ich will die OBA für das Modul 162 schreiben.
 
 
 
