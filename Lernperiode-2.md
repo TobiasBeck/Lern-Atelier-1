@@ -103,7 +103,7 @@
 
 
 
-– Ich habe heute mit Alex und Devrim an unserer Präsentation für das Projekt „Budget-Assistent” gearbeitet. Wir haben das Grundgerüst unserer Präsentation bereits erstellt und die Rollen verteilt
+- Ich habe heute mit Alex und Devrim an unserer Präsentation für das Projekt „Budget-Assistent” gearbeitet. Wir haben das Grundgerüst unserer Präsentation bereits erstellt und die Rollen verteilt
 - Wir sind recht weit gekommen, müssen aber noch ein paar Aspekte besprechen über das Wochenende.
 - Ich finde das ich heute gute Arbeit geleistet habe.
 
@@ -114,6 +114,7 @@
 - [ ] Ich will ein neues Programmierthema anfangen ( Unity-Programm).
 - [ ] Ich will für den Test des Moduls 162 lernen.
 - [ ] Ich will die OBA für das Modul 162 schreiben.
+
 
 
 
