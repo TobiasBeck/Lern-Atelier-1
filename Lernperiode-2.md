@@ -112,15 +112,22 @@
 **05.12.2025**
 
 - [ ] Ich will ein neues Programmierthema anfangen ( Unity-Programm).
-- [ ] Ich will für den Test des Moduls 162 lernen.
-- [ ] Ich will die OBA für das Modul 162 schreiben.
+- [x] Ich will für den Test des Moduls 162 lernen.
+- [x] Ich will die OBA für das Modul 162 schreiben.
 
 
 
+## Tagesreflexion:
+**05.12.2025**
+
+- Heute habe ich an meiner OBA gearbeitet. Ich bin fast fertig, muss aber noch die Qualität der Daten dokumentieren und die Reflexion schreiben.
 
 
+## Feinplanung:
+**12.12.2025**
 
-
+- [ ] Ich möchte ein neues Unity-Projekt anfangen, jedoch weiss ich noch nicht was für ein Game.
+- [ ] Ich möchte auch mir noch das neue Modul 117 anschauen.
 
 
 
