@@ -142,7 +142,10 @@
 
 ## Reflexion der Lernperiode:
 
-- 
+- In dieser Lernperiode habe ich sehr viel Neues gelernt.
+- Ich möchte jedoch noch mehr über die verschiedenen Programmiersprachen erfahren. 
+- Ich hatte immer sehr viel Spass und habe auch immer gerne Neues gelernt.
+
 
 
 
