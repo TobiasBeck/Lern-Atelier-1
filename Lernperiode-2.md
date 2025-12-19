@@ -131,6 +131,20 @@
 
 
 
+## Tagesreflexion:
+**19.12.2025**
+
+– Heute habe ich mit Alex an Auftrag 1708 (ISO-OSI-Modelle) des Moduls 117 gearbeitet.
+- Wir sind einigermaßen vorangekommen, doch wir müssen noch die letzten Aufgaben lösen.
+- Ich finde, dass ich heute sehr gut mit Alex gearbeitet habe, und ich möchte beim nächsten Mal genauso weitermachen.
+
+
+
+## Reflexion der Lernperiode:
+
+- 
+
+
 
 
 
