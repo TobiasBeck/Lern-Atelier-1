@@ -13,12 +13,17 @@
 - Ich würde gerne eine neue Programmiersprache wie Python lernen.
 - Ich würde gerne ein eigenes 3D-Spiel erstellen bei dem es um ein Autorennen gehen soll.
 
-## Tagesreflexion 
+## Tagesreflexion: 
 **09.01.2026**
 - Ich habe heute mit Alex und Devrim am Modul 117, den Aufträgen 1711, 1713 und 1714, gearbeitet. Wir haben die Aufträge 1711 und 1713 abgeschlossen und mit Auftrag 1714
   begonnen, sind damit aber noch nicht ganz fertig.
 - Ich finde, dass ich heute sehr gut mit meinem Teamkollegen zusammengearbeitet habe.
 - Für das nächste Mal möchte ich mit der Website für meine Mutter beginnen.
+
+## Feinplanung:
+**16.01.2026**
+
+- [ ] Ich will mit der Website für das Unternehmen meiner Mutter beginnen.
 
 
   
