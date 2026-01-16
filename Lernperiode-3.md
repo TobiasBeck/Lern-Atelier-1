@@ -26,5 +26,11 @@
 - [ ] Ich will mit der Website für das Unternehmen meiner Mutter beginnen.
 
 
+## Tagesreflexion: 
+**16.01.2026**
+
+- Ich habe heute an Modul 117 des Auftrags 1720 gearbeitet. Wir sind heute damit fertig geworden.
+- Wir haben heute auch mit einem neuen Projekt begonnen: Wir wollen eine Custom Map für das Spiel „Ready or Not” erstellen.
+- Was ich besser machen würde: Ich möchte beim nächsten Mal effektiver arbeiten können, denn ich fand, dass ich mich heute sehr leicht habe ablenken lassen.
   
 
