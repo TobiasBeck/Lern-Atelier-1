@@ -34,4 +34,8 @@
 - Was ich besser machen würde: Ich möchte beim nächsten Mal effektiver arbeiten können, denn ich fand, dass ich mich heute sehr leicht habe ablenken lassen.
   
   
+## Feinplanung:
+**23.01.2026**
 
+- [ ] Ich will mit der Website für das Unternehmen meiner Mutter beginnen.
+- [ ] Ich will mit Alex und Devrim zusammen an userer custom Map für das Spiel Ready or not weiterarbeiten.
