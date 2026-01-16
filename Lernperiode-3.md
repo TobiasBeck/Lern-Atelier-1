@@ -33,4 +33,5 @@
 - Wir haben heute auch mit einem neuen Projekt begonnen: Wir wollen eine Custom Map für das Spiel „Ready or Not” erstellen.
 - Was ich besser machen würde: Ich möchte beim nächsten Mal effektiver arbeiten können, denn ich fand, dass ich mich heute sehr leicht habe ablenken lassen.
   
+  
 
