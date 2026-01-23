@@ -39,3 +39,20 @@
 
 - [ ] Ich will mit der Website für das Unternehmen meiner Mutter beginnen.
 - [ ] Ich will mit Alex und Devrim zusammen an unserer custom Map für das Spiel Ready or not weiterarbeiten.
+
+
+
+## Tagesreflexion:
+**23.01.2026**
+
+- Ich habe heute mit Alex und Devrim an unserem neuen Projekt earbeitet. Nàhmlich an unserer eigenen map fèr das Spiel "Reasy or Not".
+- Ich finde das ich heute sehr gut gearbeitet habe, es gab ein paar Probleme die wir schliesslich beheben konnten.
+
+  
+## Feinplanung:
+**13.02.2026**
+
+- [ ] Ich will mit der Website für das Unternehmen meiner Mutter fortfahren.
+- [ ] Ich will mit Alex und Devrim zusammen an unserer custom Map für das Spiel Ready or not weiterarbeiten.
+
+
