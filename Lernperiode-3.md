@@ -38,4 +38,4 @@
 **23.01.2026**
 
 - [ ] Ich will mit der Website für das Unternehmen meiner Mutter beginnen.
-- [ ] Ich will mit Alex und Devrim zusammen an userer custom Map für das Spiel Ready or not weiterarbeiten.
+- [ ] Ich will mit Alex und Devrim zusammen an unserer custom Map für das Spiel Ready or not weiterarbeiten.
