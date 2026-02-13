@@ -38,7 +38,7 @@
 **23.01.2026**
 
 - [ ] Ich will mit der Website für das Unternehmen meiner Mutter beginnen.
-- [ ] Ich will mit Alex und Devrim zusammen an unserer custom Map für das Spiel Ready or not weiterarbeiten.
+- [X] Ich will mit Alex und Devrim zusammen an unserer custom Map für das Spiel Ready or not weiterarbeiten.
 
 
 
@@ -53,6 +53,22 @@
 **13.02.2026**
 
 - [ ] Ich will mit der Website für das Unternehmen meiner Mutter fortfahren.
-- [ ] Ich will mit Alex und Devrim zusammen an unserer custom Map für das Spiel Ready or not weiterarbeiten.
+- [x] Ich will mit Alex und Devrim zusammen an unserer custom Map für das Spiel Ready or not weiterarbeiten.
 
+
+
+## Tagesreflexion:
+**13.02.2026**
+
+
+– Heute habe ich mit Devrim und Alex an Modul 117 gearbeitet, da wir noch einige offene Aufträge abschliessen mussten.
+- Ich finde, dass ich heute recht gut gearbeitet habe. Ich war produktiv und effektiv.
+- Für das nächste Mal möchte ich einfach nicht vergessen, meine Maus mitzunehmen, da ich sie heute sehr gut hätte gebrauchen können.
+
+
+## Feinplanung:
+**20.02.2026**
+
+- [ ] Ich will gemeinsam mit Alex und Devrim an unserem Ready of not Projekt weiterarbeiten.
+      
 
