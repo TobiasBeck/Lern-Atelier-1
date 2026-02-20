@@ -71,4 +71,15 @@
 
 - [ ] Ich will gemeinsam mit Alex und Devrim an unserem Ready of not Projekt weiterarbeiten.
       
+## Tagesreflexion:
+**20.02.2026**
 
+
+- Heute habe ich mit Alex, Devrim, Joel und Noe an unserem Netzwerklabor weitergearbeitet. Wir haben gute Fortschritte gemacht, sind aber leider      noch nicht ganz fertig.
+- Meine Arbeitsqualität war heute eigentlich sehr gut. Ich habe nicht das Gefühl, dass ich etwas ändern müsste.
+
+
+## Feinplanung:
+**27.02.2026**
+
+- [ ] Ich will gemeinsam mit Alex und Devrim an unserem Ready of not Projekt weiterarbeiten.
