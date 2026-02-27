@@ -83,3 +83,20 @@
 **27.02.2026**
 
 - [ ] Ich will gemeinsam mit Alex und Devrim an unserem Ready of not Projekt weiterarbeiten.
+
+
+
+
+
+## Tagesreflexion:
+**27.02.2026**
+
+- Heute habe ich mit Devrim, Alex und Noe an einem neuen Projekt gearbeitet. Wir wollen ein Roblox-game machen, da unser Ready or not Game eher ein Flopp war.
+- Ich will für nächstes mal meine Maus mitnehmen, da ich sie heute leider vergessen hatte.
+
+
+## Feinplanung:
+**06.03.2026**
+
+- [ ] Ich will gemeinsam mit Alex und Devrim an unserem Roblox Projekt weiterarbeiten.
+
