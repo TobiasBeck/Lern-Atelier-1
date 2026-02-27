@@ -98,5 +98,5 @@
 ## Feinplanung:
 **06.03.2026**
 
-- [ ] Ich will gemeinsam mit Alex und Devrim an unserem Roblox Projekt weiterarbeiten.
+- [ ] Ich will gemeinsam mit Alex, Devrim und Noe an unserem Roblox Projekt weiterarbeiten.
 
