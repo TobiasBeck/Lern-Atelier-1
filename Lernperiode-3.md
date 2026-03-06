@@ -104,7 +104,8 @@
 ## Tagesreflexion:
 **06.03.2026**
 
-- Heute habe ich ein neues eigenes Projekt angefangen: Ich möchte mich mit Python auseinandersetzen. Ich habe mich sehr lange nicht mehr damit befasst und dachte mir, dass es wieder an der Zeit ist.
+- Heute habe ich ein neues eigenes Projekt angefangen: Ich möchte mich mit Python auseinandersetzen.
+- Ich habe mich sehr lange nicht mehr damit befasst und dachte mir, dass es wieder an der Zeit ist.
 - Nächstes mal will ich meine Maus nicht vergessen, da ich sie schon wieder nicht mitgenommen habe.
 - Ich finde das ich sonst gute Arbeit geleistet habe.
 
