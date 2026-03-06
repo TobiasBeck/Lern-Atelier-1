@@ -82,7 +82,7 @@
 ## Feinplanung:
 **27.02.2026**
 
-- [ ] Ich will gemeinsam mit Alex und Devrim an unserem Ready of not Projekt weiterarbeiten.
+- [x] Ich will gemeinsam mit Alex und Devrim an unserem Ready of not Projekt weiterarbeiten.
 
 
 
@@ -99,4 +99,20 @@
 **06.03.2026**
 
 - [ ] Ich will gemeinsam mit Alex, Devrim und Noe an unserem Roblox Projekt weiterarbeiten.
+
+
+## Tagesreflexion:
+**06.03.2026**
+
+- Heute habe ich ein neues eigenes Projekt angefangen: Ich möchte mich mit Python auseinandersetzen. Ich habe mich sehr lange nicht mehr damit befasst und dachte mir, dass es wieder an der Zeit ist.
+- Nächstes mal will ich meine Maus nicht vergessen, da ich sie schon wieder nicht mitgenommen habe.
+- Ich finde das ich sonst gute Arbeit geleistet habe.
+
+
+## Feinplanung:
+**13.03.2026**
+
+- [ ] Ich will gemeinsam mit Alex, Devrim und Noe an unserem Roblox Projekt weiterarbeiten.
+- [ ] ich will mich mehr mit Python befassen (neue Tipps und Tricks ausprobieren).
+      
 
