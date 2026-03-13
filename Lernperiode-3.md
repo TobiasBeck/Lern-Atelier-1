@@ -113,7 +113,26 @@
 ## Feinplanung:
 **13.03.2026**
 
+- [x] Ich will gemeinsam mit Alex, Devrim und Noe an unserem Roblox Projekt weiterarbeiten.
+- [ ] ich will mich mehr mit Python befassen (neue Tipps und Tricks ausprobieren).
+
+
+
+      
+## Tagesreflexion:
+**13.03.2026**
+
+- heute habe ich an dem Modul 106 gearbeitet. Ich wollte weiter kommen da ich mit dem Stoff im Unterricht nicht hinterher gekommen bin.
+- Ich wollte heute auch weiter mit Pythoon arbeiten, aber ich habe mich zuletzt dafür entschieden das ich am Modul 106 weiterarbeite.
+- Ich finde das ich eigentlich sehr gut gearbeitet habe.
+
+
+
+ ## Feinplanung:
+**20.03.2026**
+
 - [ ] Ich will gemeinsam mit Alex, Devrim und Noe an unserem Roblox Projekt weiterarbeiten.
 - [ ] ich will mich mehr mit Python befassen (neue Tipps und Tricks ausprobieren).
-      
+- [ ] Ich will am Modul 106 weiterarbeiten.
+
 
