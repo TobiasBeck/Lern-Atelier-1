@@ -136,3 +136,19 @@
 - [ ] Ich will am Modul 106 weiterarbeiten.
 
 
+
+## Tagesreflexion:
+**20.03.2026**
+
+- Heute habe ich an unserem Roblox-Spiel weitergearbeitet.
+- Ich habe mich auch mit Stitch befasst und mir ein paar YouTube-Videos angeschaut.
+
+
+ ## Feinplanung:
+ **27.03.2026**
+
+- [ ] Ich will weiter an unserem Roblox Projekt arbeiten.
+- [ ] Ich will am Modul 106 weiterarbeiten.
+
+  
+  
