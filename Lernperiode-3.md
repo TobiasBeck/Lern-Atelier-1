@@ -150,5 +150,12 @@
 - [ ] Ich will weiter an unserem Roblox Projekt arbeiten.
 - [ ] Ich will am Modul 106 weiterarbeiten.
 
-  
-  
+
+## Tagesreflexion:
+**27.03.2026**
+
+- Heute habe ich nur am Modul 106 gearbeitet, da wir nächste Woche schon einen Abgabetermin haben. Ich habe 2 Aufträge gelöst. Mir fehlen jetzt nur noch 4 Aufträge bearbeiten und abgeben. 
+
+
+## Reflexion der Lernperiode:
+In dieser Lernperiode habe ich sehr viel Neues gelernt. Ich habe an einer Karte für das Videospiel „Ready or Not” gearbeitet. Zusammen mit Alex, Devrim und Noe habe ich an einem Roblox-Spiel gearbeitet. Es ist noch nicht fertig, aber wir werden in der nächsten Lernperiode daran weiterarbeiten. Zudem habe ich mich ein wenig mit Python befasst. Es ist eine sehr interessante Sprache, aber nicht so leicht zu verstehen. Alles in allem habe ich sehr viel Neues ausprobiert und möchte auch so weitermachen.
