@@ -11,4 +11,5 @@
 ## Feinplanung:
 **08.05.2026**
 - [ ] Ich will heute am Modul 106 arbeiten, da wir nächste Woche den Abgabetermin haben.
+- [ ] Einen passsenden Monitor finden für unser Schulzimmer.
 
