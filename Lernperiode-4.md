@@ -13,3 +13,15 @@
 - [ ] Ich will heute am Modul 106 arbeiten, da wir nächste Woche den Abgabetermin haben.
 - [ ] Einen passsenden Monitor finden für unser Schulzimmer.
 
+
+## Tagesreflexion:
+
+- Heute habe ich mit meiner Gruppe (Devrim, Helin und ich) nach einem Monitor für unser Klassenzimmer recherchiert. Wir haben schließlich einen gefunden, der allen Anforderungen gerecht wurde.
+
+
+
+## Feinplanung:
+**22.05.2026**
+
+
+- [ ] Ich möchte mit dem neuen Modul M122 und dem dazugehörigen Projekt beginnen.
