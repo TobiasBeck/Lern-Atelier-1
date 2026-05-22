@@ -25,3 +25,15 @@
 
 
 - [ ] Ich möchte mit dem neuen Modul M122 und dem dazugehörigen Projekt beginnen.
+
+
+## Tagesreflexion:
+
+-Ich habe heute im Unterricht weiter nach einem neuen Monitor gesucht, da der Monitor den wir heute ausprobiert haben nicht unseren Anforderungen entspricht.
+
+
+## Feinplanung:
+**27.05.2026**
+
+- [ ] Ich möchte mit dem neuen Modul M122 weitermachen.
+- [ ] Ich möchte einen geeigneten Monitor finden.
