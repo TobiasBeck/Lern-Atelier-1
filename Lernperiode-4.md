@@ -29,11 +29,20 @@
 
 ## Tagesreflexion:
 
--Ich habe heute im Unterricht weiter nach einem neuen Monitor gesucht, da der Monitor den wir heute ausprobiert haben nicht unseren Anforderungen entspricht.
+- Ich habe heute im Unterricht weiter nach einem neuen Monitor gesucht, da der Monitor den wir heute ausprobiert haben nicht unseren Anforderungen entspricht.
 
 
 ## Feinplanung:
 **27.05.2026**
 
 - [ ] Ich möchte mit dem neuen Modul M122 weitermachen.
-- [ ] Ich möchte einen geeigneten Monitor finden.
+- [x] Ich möchte einen geeigneten Monitor finden.
+
+## Tagesreflexion:
+
+- Heute habe ich den perfekten Monitor gefunden. Er erfüllt alle Anforderungen und liegt sogar auch im Preisbudget.
+
+  ## Feinplanung:
+**05.06.2026**
+
+- [ ] Ich möchte mit dem neuen Modul M122 weitermachen.
