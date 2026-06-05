@@ -46,3 +46,7 @@
 **05.06.2026**
 
 - [ ] Ich möchte mit dem neuen Modul M122 weitermachen.
+
+## Tagesreflexion:
+
+- Heute habe ich nach einem Monitor für unser Klassenzimmer gesucht. Ich habe schließlich zwei Modelle gefunden: Den Philips 27M2N5901A und den LG 34WR55QK-B. Ich habe diese an Herrn Thut geschickt und hoffe, dass wir sie nächste Woche testen können. Ich finde, dass ich heute nicht schlecht gearbeitet habe. An meiner Konzentrationsfähigkeit könnte ich mich jedoch noch verbessern. Meine Konzentration lässt sehr schnell nach. 
