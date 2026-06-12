@@ -55,6 +55,16 @@
   ## Feinplanung:
 **12.06.2026**
 
-- [ ] Ich möchte mit dem neuen Modul M122 weitermachen.
+- [x] Ich möchte mit dem neuen Modul M122 weitermachen.
 - [ ] Ich möchte am Modul 293 weitermachen und mit meinem Projekt anfangen.
 
+
+## Tagesreflexion:
+
+-Heut habe ich an meinem Projekt für das Modul 122 weitergearbeitet. Ich habe guten Vortschritt gemacht, muss aber noch ein paar Verbesserungen vornehmen. Ich finde das ich heute gut gearbeitet habe. Ich habe heite leider meine Maus vergessen, darum konnte ich nicht so effizient wie sonst, aber das ist nicht sehr tragisch.
+
+ ## Feinplanung:
+**19.06.2026**
+
+- [ ] Ich möchte das Projekt für das Modul 122 fertigstellen.
+- [ ] Ich möchte am Projekt vom Modul 293 weiterarbeiten.
