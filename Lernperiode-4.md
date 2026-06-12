@@ -61,7 +61,7 @@
 
 ## Tagesreflexion:
 
--Heut habe ich an meinem Projekt für das Modul 122 weitergearbeitet. Ich habe guten Vortschritt gemacht, muss aber noch ein paar Verbesserungen vornehmen. Ich finde das ich heute gut gearbeitet habe. Ich habe heite leider meine Maus vergessen, darum konnte ich nicht so effizient wie sonst, aber das ist nicht sehr tragisch.
+- Heute habe ich an meinem Projekt für das Modul 122 weitergearbeitet. Ich habe gute Fortschritte gemacht, muss aber noch ein paar Verbesserungen vornehmen. Ich finde, dass ich heute gut gearbeitet habe. Leider habe ich heute meine Maus vergessen, weshalb ich nicht so effizient arbeiten konnte wie sonst. Das ist aber nicht sehr tragisch.
 
  ## Feinplanung:
 **19.06.2026**
